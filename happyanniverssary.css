@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmWaEWslFQ9C7JMXSBmA8BGz8ZSzCbDm7Diw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* happy ka font ##font-family: 'Bangers', cursive;## */
+/* anniversary ka font ##font-family: 'Lobster', cursive;## */
+
+.happy {
+    font-size: 2000%;
+    font-family: 'Bangers', cursive;
+    color: #ffaaa7;
+    position: relative;
+    left: 45%;
+}
+.anniversary {
+    font-size: 900%;
+    font-family: 'Lobster', cursive;
+    color: #ffaaa7;
+    position: relative;
+    left: 40%;
+}
+.marriage {
+    font-size: 900%;
+    font-family: 'Lobster', cursive;
+    color: #ffaaa7;
+    position: absolute;
+    top: 37%;
+}
+
+.card {
+    position: absolute;
+    top: 110%;
+}
+
+.quoteforfirst {
+    color: rgb(255, 51, 0);
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+    position: absolute;
+    top: 115%;
+    left: 45%;
+    background-color: #ffb9b6;
+    border-radius: 20%;
+}
+
+.twoheartsimage {
+    position: absolute;
+    top: 160%;
+    left: 72.7%;
+}
+.secondquotesparent {
+    background-color: #ffaaa7;
+    position: absolute;
+    top: 170%;
+    left: 5%;
+    color: rgb(255, 51, 0);
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+    border-radius: 20%;
+}
